@@ -2,3 +2,4 @@ fastapi
 uvicorn
 langchain-groq
 python-dotenv
+pandas
